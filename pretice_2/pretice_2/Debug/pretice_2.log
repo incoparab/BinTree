@@ -1,0 +1,25 @@
+﻿  pretice_2.cpp
+D:\代码\pretice_2\pretice_2\BinaryTree.h(133,123): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\代码\pretice_2\pretice_2\BinaryTree.h(98): message : 在编译 类 模板 成员函数“void BinaryTree<char>::levelOrder(BinTreeNode<T> *)”时
+          with
+          [
+              T=char
+          ]
+D:\代码\pretice_2\pretice_2\BinaryTree.h(170): message : 查看对正在编译的函数 模板 实例化“void BinaryTree<char>::levelOrder(BinTreeNode<T> *)”的引用
+          with
+          [
+              T=char
+          ]
+D:\代码\pretice_2\pretice_2\BinaryTree.h(144): message : 在编译 类 模板 成员函数“void BinaryTree<char>::Create(void)”时
+D:\代码\pretice_2\pretice_2\pretice_2.cpp(7): message : 查看对正在编译的函数 模板 实例化“void BinaryTree<char>::Create(void)”的引用
+D:\代码\pretice_2\pretice_2\pretice_2.cpp(6): message : 查看对正在编译的 类 模板 实例化“BinaryTree<char>”的引用
+D:\代码\pretice_2\pretice_2\BinaryTree.h(133,104): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\代码\pretice_2\pretice_2\BinaryTree.h(133,89): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\代码\pretice_2\pretice_2\BinaryTree.h(133,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\代码\pretice_2\pretice_2\BinaryTree.h(265,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\代码\pretice_2\pretice_2\BinaryTree.h(250): message : 在编译 类 模板 成员函数“bool BinaryTree<char>::Examine_1(std::string,std::string)”时
+D:\代码\pretice_2\pretice_2\BinaryTree.h(162): message : 查看对正在编译的函数 模板 实例化“bool BinaryTree<char>::Examine_1(std::string,std::string)”的引用
+D:\代码\pretice_2\pretice_2\BinaryTree.h(290,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\代码\pretice_2\pretice_2\BinaryTree.h(278): message : 在编译 类 模板 成员函数“bool BinaryTree<char>::Examine_2(std::string,std::string)”时
+D:\代码\pretice_2\pretice_2\BinaryTree.h(197): message : 查看对正在编译的函数 模板 实例化“bool BinaryTree<char>::Examine_2(std::string,std::string)”的引用
+  pretice_2.vcxproj -> D:\代码\pretice_2\Debug\pretice_2.exe
